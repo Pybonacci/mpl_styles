@@ -18,4 +18,6 @@ Otherwise, if you don't want to share your beatiful matplotlib configuration you
 styles using my_style decorator which accepts a dictionary with your rc params.
 
 To use a style you just have to create your function with your plot and decorate the function with the 
-decorator you want to use. See some dummy examples below:
+decorator you want to use. See some dummy examples in the following link:
+
+
