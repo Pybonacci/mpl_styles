@@ -1,7 +1,7 @@
-mpl_styles
+mpl-styles
 ==========
 
-mpl_styles provide some decorators to decorate your matplotlib plots. Some styles are included, 
+mpl-styles provide some decorators to decorate your matplotlib plots. Some styles are included, 
 'gg', 'gg2', 'probpro', 'pybo', 'r'.
 
 'gg', 'probpro' and 'r' are adapted from matplotlibrc demo files developed by [Ryan Dale](https://github.com/daler/matplotlibrc).
