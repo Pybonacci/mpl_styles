@@ -1,4 +1,4 @@
-mpl-styles
+mpl_styles
 ==========
 
 mpl-styles provide some decorators to decorate your matplotlib plots. Some styles are included, 
