@@ -18,6 +18,6 @@ Otherwise, if you don't want to share your beatiful matplotlib configuration you
 styles using my_style decorator which accepts a dictionary with your rc params.
 
 To use a style you just have to create your function with your plot and decorate the function with the 
-decorator you want to use. See some dummy examples in the [following link](http://nbviewer.ipython.org/urls/raw.github.com/kikocorreoso/mpl_styles/master/mpl_styles-examples_of_use.ipynb)
+decorator you want to use. See some dummy examples in the [following link](http://nbviewer.ipython.org/github/Pybonacci/mpl_styles/blob/master/mpl_styles-examples_of_use.ipynb)
 
 
